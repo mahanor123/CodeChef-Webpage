@@ -1,0 +1,44 @@
+@media (max-width: 576px) {
+  .others {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .Registration {
+    flex-direction: column;
+    margin: 0;
+    padding: 30px;
+    width: 100%;
+  }
+
+  .Registration .box {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+  }
+
+  .Cards {
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 60px;
+  }
+
+  .link-1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:flex-start;;
+    padding-top: 10px;
+  }
+  .link-2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content:space-around;
+    padding-top: 10px;
+
+  }
+
+}
+
