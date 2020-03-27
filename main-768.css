@@ -1,13 +1,4 @@
 @media (max-width: 768px) {
-  .link-2 a {
-    padding-left: 25px;
-  }
-  .Footer-1 {
-    padding-top: 25px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-  }
   .img-1{
     margin-left: 10px;
   }
