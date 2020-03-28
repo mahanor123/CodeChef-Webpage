@@ -13,7 +13,6 @@
   
     .nav-left {
       margin-top: 5%;
-      margin-left: 7%;
     }
     .nav-left span {
       font-size: 14px;
@@ -58,8 +57,7 @@
     }
   
     .Navigation-menu a {
-      font-size: 16px;
-      padding-left: 30px;
+      padding-left: 20px;
     }
   
     .information {
