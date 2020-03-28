@@ -17,6 +17,10 @@
     padding-left: 15%;
     padding-right: 15%;
   }
+  .link-1 a {
+    padding-left: 50px;
+  }
+
 }
 
 * {
@@ -40,23 +44,23 @@
 
 .nav-left {
   display: -webkit-inline-flex;
-  margin-left: 6%;
+  padding-left: 6%;
 }
 
 .nav-left img {
   height: 12px;
-  margin-top: 3%;
+  margin-top: 10px;
 }
 
 .nav-left span {
   padding-left: 7px;
   font-size: 15px;
-  margin-top: 2%;
+  margin-top: 7px;
 }
 
 .phonelogo img {
   height: 15px;
-  margin-top: 7%;
+  margin-top: 10px;
 }
 
 .phonelogo {
@@ -65,7 +69,7 @@
 
 .nav-right {
   float: right;
-  margin-right: 6%;
+  padding-right: 6%;
   display: -webkit-inline-flex;
   padding-top: 1px;
   color: #34404b;
@@ -75,7 +79,7 @@
 .loginButton {
   width: 40px;
   height: 17px;
-  margin-top: 5%;
+  margin-top: 10px;
   margin-right: 15px;
   font-size: 14px;
 }
@@ -104,7 +108,7 @@
   width: 38px;
   height: 41px;
   margin-left: 6%;
-  margin-top: 1.5%;
+  margin-top: 20px;
   border: 1px solid black;
 }
 
@@ -120,13 +124,13 @@
 }
 
 .Navigation-Text {
-  margin-left: 1%;
-  margin-top: 1.8%;
+  margin-left: 15px;
+  margin-top: 25px;
 }
 
 .dot {
-  margin-left: 70%;
-  margin-top: -2%;
+  padding-left: 70%;
+  margin-top: -5px;
 }
 
 .skill-dot{
@@ -138,7 +142,7 @@
 
 .Navigation-menu {
   float: right;
-  margin-right: 5.5%;
+  padding-right: 5.5%;
   color: #34404b;
   font-family: Ubuntu;
   display: flex;
@@ -161,7 +165,7 @@ hr.horizontal {
   border: 2px solid #ff5912;
   width: 20px;
   border-radius: 3px;
-  margin-top: 10%;
+  margin-top: 1px;
 }
 
 .information {
@@ -185,7 +189,7 @@ hr.horizontal {
 
 .information-text p {
   font-size: 26px;
-  margin-top: 1%;
+  margin-top: 10px;
   color: #34404b;
   font-family: Ubuntu;
   font-weight: 400;
@@ -199,7 +203,7 @@ hr.horizontal {
   background-color: #fc4111;
   color: #ffffff;
   font-size: 18px;
-  margin-top: 3%;
+  margin-top: 50px;
   margin-left: 20%;
   font-family: Ubuntu;
   line-height: 48px;
@@ -207,16 +211,16 @@ hr.horizontal {
 
 .chefphoto {
   float: right;
-  margin-right: 5%;
-  margin-top: 4%;
+  padding-right: 5%;
+  margin-top: 5.2%;
 }
 
 .Registration {
   padding-left: 20%;
-  padding-right: 20%;
-  display: flex;
+  display:flex;
   background-color: #2f2f2f;
   color: #f2f2f2;
+
 }
 
 .Registration .title {
@@ -227,15 +231,11 @@ hr.horizontal {
   font-size: 28px;
 }
 
-.padding-x-20 {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
 .Maindiv {
   background-color: #f4f6f8;
   width: 100%;
-  height: 500px;
+  height: auto;
+  padding-bottom: 60px;
   font-family: Ubuntu;
 }
 
@@ -250,7 +250,7 @@ hr.horizontal {
 .Maindiv p {
   margin-left: 20%;
   font-size: 24px;
-  margin-top: 2.5%;
+  margin-top: 10px;
   line-height: 1.6;
   color: #2f2f2f;
   letter-spacing: 0.6px;
@@ -265,15 +265,15 @@ hr.horizontal {
 
 .menu h4 {
   text-align: center;
-  padding-top: 4%;
+  padding-top: 70px;
   font-size: 50px;
-  line-height: 43.2px;
+  line-height: 43px;
 }
 
 .menu-1 h4 {
   font-size: 24px;
   margin-left: 33%;
-  margin-top: 2%;
+  margin-top: 30px;
 }
 
 .menu-2 h4 {
@@ -412,7 +412,6 @@ hr.horizontal-1 {
 
 .Testimonials {
   width: 100%;
-  height: auto;
   background-color: #f4f6f8;
   margin-top: 7%;
   color: #34404b;
@@ -445,7 +444,7 @@ hr.horizontal-1 {
 }
 
 .social {
-  height:auto;
+  height: 450px;
   width: 50%;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   background-color: #ffffff;
@@ -488,12 +487,12 @@ hr.horizontal-1 {
 .photo {
   width: 20%;
   height: 450px;
-  margin-top: -54.8%;
+  margin-top: -47.4%;
   background-color: #f2f2f2;
 }
 
 .photo img {
-  padding-top: 90%;
+  margin-top: 250px;
   margin-left: 50%;
   height: 30%;
 }
@@ -524,7 +523,7 @@ hr.horizontal-1 {
 
 .Arrow1 {
   margin-left: 110%;
-  margin-top: -28%;
+  margin-top: -32%;
 }
 
 .post {
@@ -674,7 +673,6 @@ hr.horizontal-1 {
 
 .link-1 a {
   font-size: 18px;
-  padding-left: 50px;
 }
 
 hr.horizontal-line {
@@ -685,6 +683,7 @@ hr.horizontal-line {
 
 .Item-1 {
   padding-top: 15px;
+  margin-left: -2%;
 
 }
 
@@ -719,7 +718,7 @@ hr.horizontal-line {
 
 .Payment-photo{
   width: 200px;
-  padding-left: 10px;
+  padding-left: 30px;
 }
 
 @media (max-width: 1200px){

@@ -6,4 +6,119 @@
     padding-left: 20%;
     padding-right: 20%;
   }
+
+  .Testimonials {
+    background-color: #f4f6f8;
+    margin-top: 30%;
+    color: #34404b;
+    font-family: Ubuntu;
+  }
+
+  .Testimonials h1 {
+    padding-top: 18%;
+    font-size: 45px;
+    margin-left: -30px;
+  }
+
+  .Testimonials p {
+    font-size: 26px;
+    margin-top: 9%;
+    margin-left: 9.2%;
+    line-height: 40px;
+  }
+
+  .Arrow {
+    margin-left: 1%;
+  }
+
+  .social {
+    height: 700px;
+    width: auto;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+    background-color: #ffffff;
+    margin-left: 1%;
+    margin-top: 5px;
+  }
+
+  .opportunity-text {
+    margin-left: 22%;
+  }
+
+  .opportunity-text img {
+    height: 90px;
+    margin-top: 10%;
+    margin-left: -10%;
+  }
+
+  .opportunity-text p {
+    font-size: 22px;
+    margin-left: 4%;
+    margin-top: -16%;
+    color: #2f2f2f;
+    font-family: Ubuntu;
+  }
+
+  .opportunity-text h6 {
+    margin-left: 25%;
+    margin-top: 20%;
+    font-size: 25px;
+    color: #2f2f2f;
+  }
+
+  .social-1 {
+    margin-left: 25%;
+    font-size: 22px;
+    margin-top: 10px;
+  }
+
+  .photo {
+    width: 26%;
+    height: 700px;
+    margin-top: -79.4%;
+    background-color: #f2f2f2;
+  }
+
+  .photo img {
+    margin-top: 379px;
+    margin-left: 50%;
+    width: 150px;
+  }
+
+  .line {
+    margin-left: 25%;
+    width: 65%;
+    padding-top: 8%;
+  }
+
+  .Foundation-1 p {
+    margin-top: -9%;
+    margin-left: 17%;
+    font-size: 21px;
+    font-family: Ubuntu;
+  }
+
+  .points {
+    margin-left: 25%;
+    margin-top: 1px;
+  }
+
+  .points1 {
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .Arrow1 {
+    margin-left: 85%;
+    margin-top: -50%;
+  }
+
+  .text-1{
+    display: none;
+  }
+
+  .chefphoto {
+    margin-top: 7.5%;
+  }
 }

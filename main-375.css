@@ -1,0 +1,481 @@
+@media only screen and (max-width: 375px) {
+    .Container {
+      width: auto;
+    }
+  
+    .nav-Container {
+      width: auto;
+      height: 110px;
+      color: #34404b;
+      font-family: Ubuntu;
+      background-color: #ffffff;
+    }
+  
+    .nav-left {
+      margin-top: 5%;
+      margin-left: 7%;
+    }
+    .nav-left span {
+      font-size: 14px;
+    }
+  
+    .nav-right {
+      margin-top: 3%;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+  
+    .phonelogo span {
+      padding-left: 3px;
+    }
+    .userButton {
+      width: 100px;
+      margin-right: -2px;
+    }
+  
+    .Navigation img {
+      height: 40px;
+      width: 40px;
+      margin-left: 5%;
+      margin-top: 30px;
+      border: 1px solid black;
+    }
+  
+    .Navigation-Text {
+      margin-left: 5%;
+      margin-top: 8%;
+    }
+  
+    .Navigation-Text h1 {
+      font-size: 20px;
+    }
+  
+    .Navigation-menu {
+      margin-top: 40px;
+      margin-right: 1%;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+  
+    .Navigation-menu a {
+      font-size: 16px;
+      padding-left: 30px;
+    }
+  
+    .information {
+      background-image: url("Assets/587a439bb0b3561306f2c444d571fc27");
+      height: 683px;
+      width: auto;
+      margin-top: 12%;
+      color: #34404b;
+      font-family: "Ubuntu Madium";
+    }
+    .information .information-text {
+      margin-left: 10%;
+      padding-top: 15%;
+    }
+  
+    .information-text h1 {
+      font-size: 39px;
+      line-height: 47px;
+      color: #34404b;
+      font-family: "Ubuntu Medium";
+    }
+  
+    .information-text p {
+      font-size: 22px;
+      margin-top: 12%;
+      line-height: 40px;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+  
+    .button {
+      height: 60px;
+      width: 230px;
+      background-color: #fc4111;
+      color: #ffffff;
+      font-size: 22px;
+      margin-top: 12%;
+      margin-left: 10%;
+      font-family: Ubuntu;
+    }
+  
+    .chefphoto {
+      float: right;
+      margin-right: 0%;
+      margin-top: -2%;
+    }
+  
+    .Maindiv {
+      width: auto;
+      height: 800px;
+      font-size: 30px;
+      font-family: Ubuntu;
+    }
+    .Maindiv h2 {
+      font-size: 37px;
+      margin-left: 1px;
+      padding-top: 80px;
+      color: #34404b;
+    }
+  
+    .Maindiv p {
+      margin-left: 10%;
+      font-size: 22px;
+      margin-top: 50px;
+      line-height: 1.6;
+      color: #2f2f2f;
+    }
+  
+    .main-container{
+      width: auto;
+      height: auto;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+  
+    .menu h4 {
+      padding-top: 15%;
+      font-size: 46px;
+      text-align: left;
+      margin-left: 10%;
+    }
+  
+    .menu-1 h4 {
+      font-size: 20px;
+      margin-top: 14%;
+      margin-left: 10%;
+    }
+  
+    .menu-2 h4 {
+      font-size: 20px;
+      color: #ff5912;
+      margin-top: -45px;
+      margin-left: 15%;
+    }
+  
+    .menu-3 h4 {
+      font-size: 20px;
+      color: #ff5912;
+      margin-left: 75%;
+      padding-top: 0%;
+    }
+  
+    hr.horizontal-1 {
+      border: 3px solid rgb(252, 92, 34);
+      width: 10%;
+      border-radius: 3px;
+      margin-top: 3%;
+    }
+  
+    .Content {
+      margin-left: 10%;
+      font-size: 22px;
+      margin-top: 13%;
+      line-height: 1.6;
+      color: #2f2f2f;
+      font-family: Ubuntu;
+    }
+  
+    .Content-1 h6 {
+      font-size: 22px;
+      margin-top: 18%;
+      margin-left: -11%;
+    }
+  
+    .Content-1 p {
+      margin-left: -11%;
+      font-size: 22px;
+      margin-top: 9%;
+      line-height: 40px;
+    }
+  
+    .Content-1 h5 {
+      margin-left: -11%;
+      color: #ff5912;
+      font-size: 22px;
+      margin-top: 5%;
+    }
+  
+    .Content-2 {
+      font-size: 22px;
+      margin-left: -11%;
+      margin-top: 16%;
+    }
+  
+    .column{
+      position: relative;
+    }
+  
+    .column h4 {
+      margin-left: 10%;
+      font-size: 22px;
+      margin-top: 20%;
+    }
+  
+    .img-1 {
+      display: none;
+    }
+  
+    .img {
+      margin-left: 8%;
+      margin-top: 3%;
+      display: block;
+      height: 330px;
+      width: 330px;
+    }
+  
+    .Price-1 {
+      color: #2f2f2f;
+      position: absolute;
+      font-size: 27px;
+      margin-top: -70%;
+      margin-left: 30%;
+    }
+  
+    .Price-2 {
+      color: #2f2f2f;
+      position: absolute;
+      font-size: 27px;
+      margin-top: -55%;
+      margin-left: 30%;
+      line-height: 40px;
+    }
+  
+    .Price-3 {
+      color: #2f2f2f;
+      position: absolute;
+      font-size: 27px;
+      margin-top: -28%;
+      margin-left: 30%;
+      line-height: 40px;
+    }
+  
+    .button-1 {
+      height: 60px;
+      width: 250px;
+      color: #ffffff;
+      background-color: #fc4111;
+      font-size: 22px;
+      margin-top: 10%;
+      margin-left: 10%;
+    }
+  
+    .Testimonials {
+      width: auto;
+      height: 1270px;
+      background-color: #f4f6f8;
+      margin-top: 30%;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+  
+    .Testimonials h1 {
+      padding-top: 18%;
+      font-size: 45px;
+      margin-left: -30px;
+    }
+  
+    .Testimonials p {
+      font-size: 26px;
+      margin-top: 9%;
+      margin-left: 9.2%;
+      line-height: 40px;
+    }
+  
+    .Arrow {
+      margin-left: 1%;
+    }
+  
+    .social {
+      height: 800px;
+      width: auto;
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
+      background-color: #ffffff;
+      margin-left: 1%;
+      margin-top: 5px;
+    }
+  
+    .opportunity-text {
+      margin-left: 22%;
+    }
+  
+    .opportunity-text img {
+      height: 90px;
+      margin-top: 10%;
+      margin-left: -10%;
+    }
+  
+    .opportunity-text p {
+      font-size: 19px;
+      margin-left: 4%;
+      margin-top: -27%;
+      color: #2f2f2f;
+      font-family: Ubuntu;
+    }
+  
+    .opportunity-text h6 {
+      margin-left: 30%;
+      margin-top: 28%;
+      font-size: 25px;
+      color: #2f2f2f;
+    }
+  
+    .social-1 {
+      margin-left: 30%;
+      font-size: 22px;
+      margin-top: 10px;
+    }
+  
+    .photo {
+      width: 25%;
+      height: 800px;
+      margin-top: -195.8%;
+      background-color: #f2f2f2;
+    }
+  
+    .photo img {
+      margin-top: 379px;
+      margin-left: 30%;
+      width: 120px;
+    }
+  
+    .line {
+      margin-left: 30%;
+      width: 65%;
+      padding-top: 8%;
+    }
+  
+    .Foundation-1 p {
+      margin-top: -9%;
+      margin-left: 22%;
+      font-size: 21px;
+      font-family: Ubuntu;
+    }
+  
+    .points {
+      margin-left: 30%;
+      margin-top: 1px;
+    }
+  
+    .points1 {
+      height: 15px;
+      width: 15px;
+      border-radius: 50%;
+      display: inline-block;
+    }
+    .Arrow1 {
+      margin-left: 80%;
+      margin-top: -120%;
+    }
+  
+    .Footer {
+      height: 930px;
+      width: auto;
+      background-color: #f2f2f2;
+      font-family: Ubuntu;
+      color: #34404b;
+    }
+  
+    .container-1 {
+      border-bottom: 1px solid #d8d8dd;
+      width: 100%;
+      height: 160px;
+    }
+  
+    .container-1 p {
+      padding-top: 10%;
+      font-size: 25px;
+      text-align: center;
+    }
+  
+    .footer {
+      text-align: center;
+      padding-top: 5%;
+    }
+  
+    .footer-1 {
+      height: 27px;
+      width: 27px;
+    }
+  
+    .footer-2 {
+      padding-left: 15px;
+      height: 27px;
+      width: 27px;
+    }
+  
+    .small-footer {
+      margin-left: 5%;
+      font-family: Ubuntu;
+      color: #34404b;
+      padding-top: 4%;
+      text-align: center;
+    }
+  
+    .link-1 {
+      flex-direction: column;
+    }
+  
+    .Home {
+      color: orangered;
+    }
+  
+    .link-1 b {
+      font-size: 20px;
+    }
+  
+    .Item-1 {
+      margin-left: 11%;
+      margin-top: -8px;
+    }
+  
+    .Item_2 {
+      height: 6px;
+      width: 6px;
+      background-color: blue;
+      border-radius: 50%;
+      display: inline-block;
+    }
+  
+    .skill-Item a {
+      font-size: 18px;
+      margin-right: 19%;
+      margin-top: 5%;
+    }
+  
+    hr.horizontal-line {
+      display: none;
+    }
+  
+    .link-2 {
+      flex-direction: column;
+      padding-top: 45px;
+    }
+  
+    .link-2 b {
+      font-size: 21px;
+    }
+  
+    .link-2 a {
+      font-size: 18px;
+      margin-right: 20%;
+      margin-top: 5%;
+    }
+  
+    .Footer-1 {
+      margin-left: 8%;
+      margin-top: 20%;
+    }
+  
+    .title-1 b {
+      font-size: 25px;
+    }
+  
+    .Payment-photo {
+      width: 230px;
+      padding-left: 10px;
+      margin-top: 5%;
+    }
+  }
