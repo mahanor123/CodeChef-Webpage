@@ -9,13 +9,14 @@
   .Registration .left-border {
     border-left: 2px solid rgb(168, 164, 164);
     padding-left: 40px;
+    margin-left: 30px;
+    display: inline;
   }
   .Registration .title {
     margin-right: 15px;
   }
   .Cards {
-    padding-left: 15%;
-    padding-right: 15%;
+    padding: 0px 18%;
   }
   .link-1 a {
     padding-left: 50px;
@@ -216,8 +217,7 @@ hr.horizontal {
 }
 
 .Registration {
-  padding-left: 20%;
-  display:flex;
+  padding:15px 20%;
   background-color: #2f2f2f;
   color: #f2f2f2;
 
@@ -561,8 +561,7 @@ hr.horizontal-1 {
 .cardbox {
   display: inline-block;
   padding: 30px;
-  margin-left: 30px;
-  margin-top: 30px;
+  margin: 15px;
   text-align: start;
 }
 
