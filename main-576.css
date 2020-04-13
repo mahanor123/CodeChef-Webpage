@@ -1,14 +1,14 @@
 @media (max-width: 576px) {
   .Registration {
-    flex-direction: column;
-    margin: 0;
     padding: 30px;
   }
 
-  .Registration .box {
-    display:inline-flex;
-    width: 100%;
-    justify-content: space-between;
+  .Registration .title {
+    font-size: 15px;
+  }
+  
+  .Registration .date {
+    font-size: 20px;
   }
 
   .Cards {
