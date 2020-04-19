@@ -7,6 +7,70 @@
     padding-right: 20%;
   }
 
+  .Container {
+      width: auto;
+    }
+  
+    .nav-Container {
+      width: auto;
+      height: 110px;
+      color: #34404b;
+      font-family: Ubuntu;
+      background-color: #ffffff;
+    }
+  
+    .nav-left {
+      margin-top: 5%;
+    }
+    .nav-left span {
+      font-size: 14px;
+    }
+  
+    .nav-right {
+      margin-top: 5%;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+  
+    .phonelogo span {
+      padding-left: 3px;
+    }
+    .userButton {
+      width: 100px;
+      margin-right: 5px;
+    }
+  
+    .Navigation img {
+      height: 40px;
+      width: 40px;
+      margin-left: 6%;
+      margin-top: 30px;
+      border: 1px solid black;
+    }
+  
+    .Navigation-Text {
+      margin-left: 3%;
+      margin-top:34px;
+    }
+  
+    .Navigation-Text h1 {
+      font-size: 20px;
+    }
+  
+    .Navigation-menu {
+      margin-top: -3px;
+      color: #34404b;
+      font-family: Ubuntu;
+    }
+
+    .chefphoto {
+      padding-top: 6px;
+    }
+  
+    .Navigation-menu a {
+      padding-left: 20px;
+    }
+
   .Testimonials {
     background-color: #f4f6f8;
     margin-top: 30%;

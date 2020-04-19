@@ -104,6 +104,14 @@
       margin-right: 0%;
       margin-top: -2%;
     }
+
+    .Registration .title {
+      float: left;
+    }
+    
+    .Registration .date {
+      float: right;
+    }
   
     .Maindiv {
       width: auto;
